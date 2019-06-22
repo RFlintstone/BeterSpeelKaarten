@@ -1,0 +1,6 @@
+c:\users\rwfli\documents\visual studio 2015\Projects\BeterSpeelKaarten\BeterSpeelKaarten\bin\Debug\BeterSpeelKaarten.exe.config
+c:\users\rwfli\documents\visual studio 2015\Projects\BeterSpeelKaarten\BeterSpeelKaarten\obj\Debug\BeterSpeelKaarten.csprojResolveAssemblyReference.cache
+c:\users\rwfli\documents\visual studio 2015\Projects\BeterSpeelKaarten\BeterSpeelKaarten\bin\Debug\BeterSpeelKaarten.exe
+c:\users\rwfli\documents\visual studio 2015\Projects\BeterSpeelKaarten\BeterSpeelKaarten\bin\Debug\BeterSpeelKaarten.pdb
+c:\users\rwfli\documents\visual studio 2015\Projects\BeterSpeelKaarten\BeterSpeelKaarten\obj\Debug\BeterSpeelKaarten.exe
+c:\users\rwfli\documents\visual studio 2015\Projects\BeterSpeelKaarten\BeterSpeelKaarten\obj\Debug\BeterSpeelKaarten.pdb
